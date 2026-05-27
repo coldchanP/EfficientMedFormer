@@ -1,6 +1,6 @@
 # EfficientMedFormer
 
-This project includes model definition, training code, and a simple inference script for the `pneumoniamnist` task.
+This project includes model(EfficientMedFormer) definition, training code, and a simple inference script for the `pneumoniamnist` task.
 
 ## Files
 
